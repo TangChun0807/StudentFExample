@@ -31,7 +31,7 @@ public class StudentList {
          Student s3 = new Student();
         
         s3.setSid(13);
-        s3.setName("Chan");
+        s3.setName("Wong");
         
         Student[] list = new Student [3]; //Array of objects 
         
