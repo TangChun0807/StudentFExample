@@ -7,7 +7,8 @@ package studentlist;
 /**
  *
  * @author eryxt
- */
+ */ 
+ //This is a parttime
 public class StudentList {
 
     /**
