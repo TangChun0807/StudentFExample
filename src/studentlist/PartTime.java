@@ -11,6 +11,7 @@ package studentlist;
 public class PartTime {
     private int time;
     private int sid;
+    //add the new 
     
     public int getTime(){
         return time;
@@ -20,3 +21,4 @@ public class PartTime {
         return sid;
     }
 }
+
