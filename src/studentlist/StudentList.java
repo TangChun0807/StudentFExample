@@ -16,7 +16,7 @@ public class StudentList {
     public static void main(String[] args) {
         // print 3 student details sid, name 
         
-        Student s1 = new Student();
+        Student s1 = new Student(); // add new student
         
         s1.setSid(11);
         s1.setName("Peter");
@@ -49,3 +49,4 @@ public class StudentList {
     }
     
 }
+
