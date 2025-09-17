@@ -14,6 +14,7 @@ public class Student {
     public String name;
     private int semester;
     private String prgname;
+    private int number;
     
     public int getSid(){
         return sid;
@@ -35,3 +36,4 @@ public class Student {
     
     
 }
+
